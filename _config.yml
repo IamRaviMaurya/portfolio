@@ -1,12 +1,11 @@
 # Site settings
-title: Hey, I'm Ravi
-email: ravimurya04@gmail.com
-url: IamRaviMaurya.github.io
-baseurl: /portfolio
-description: Designs, codes or configures, tests, debugs, documents and maintains web service applications using a variety of software development toolkits, testing/verification applications and other tools, while adhering to specific development best practices and quality standards.
+title: Freelancer
+email: your-email@domain.com
+url: https://github.com/jeromelachaud/freelancer-theme
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Java Backend Developer - Spring Boot"
-meta_author: Maurya Ravi
+skills: "Web Developer - Graphic Artist - User Experience Designer"
+meta_author: LastName FirstName
 
 # Google webmaster tools
 google_verify:
@@ -33,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Ravi Maurya
+  copyright: Dr. Henry Jekyll
   location: Location
   social: Around the Web
   credits: Credits
@@ -41,9 +40,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/ravimurya04
+    url: http://twitter.com/jekyllrb
   - title: facebook
-    url: https://www.facebook.com/ravi.maurya.9041
+    url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
@@ -53,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Thane 421 311
-  - line: Maharashtra
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
