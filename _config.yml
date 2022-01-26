@@ -1,11 +1,12 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://jeromelachaud.com/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Ravi Maurya
+email: ravimurya04@gmail.com
+url: https://iamravimaurya.github.io/portfolio/
+description: "Designed and developed a Restful APIs for different modules in the project as per the requirement.
+Implemented the application using Spring Boot Framework and handled the security using Spring Security."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Backend Developer - Spring Boot - API "
+meta_author: Maurya Ravi
 
 # Google webmaster tools
 google_verify:
