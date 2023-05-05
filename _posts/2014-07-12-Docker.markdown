@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 7
+date: 2014-07-12
+img: docker.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: 1) Containerized and deployed a Spring Boot application using Docker, resulting in improved scalability and portability of the application.<br>2) Built and managed ocker containers for a microservices-based architecture, resulting in improved resource utilization and reduced costs.<br>3) Deployed and managed containerized applications on a Kubernetes cluster, resulting in improved availability and fault tolerance.
+---

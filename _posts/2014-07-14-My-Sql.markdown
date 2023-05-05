@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: my-sql.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: 1) Designed and implemented a MySQL database schema for a customer-facing web application, resulting in improved data organization and faster data retrieval times.<br>2)  Wrote complex SQL queries to retrieve data from multiple tables and perform data aggregation and analysis, resulting in valuable insights for the business.<br>3) Implemented Hibernate to perform ORM (Object-Relational Mapping) operations on the MySQL database, resulting in efficient and maintainable code.
+---

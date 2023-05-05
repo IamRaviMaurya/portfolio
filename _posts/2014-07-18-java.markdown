@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: java.png
+alt: image-alt
+project-date: April 2023
+client: Start Bootstrap
+category: Web Development
+description: 1)Understanding of core Java concepts like variables, data types, control structures, loops, and methods.</br> 2)Knowledge of object-oriented programming concepts like inheritance, encapsulation, and polymorphism.Familiarity with Java libraries and frameworks like Spring, Spring Boot and Hibernate.<br> 3) Collaborated with a team of developers using Git and JIRA for version control and issue tracking.
+---
