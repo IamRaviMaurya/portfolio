@@ -72,3 +72,5 @@ defaults:
 
 # about date
 start_year: 2021
+
+baseurl: https://iamravimaurya.github.io/portfolio/
