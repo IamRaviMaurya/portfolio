@@ -12,7 +12,12 @@
                     <p>Hii.. I'm Working independently and as part of a team to design, develop, test and implement web based java applications -Ensure the quality of deliveries and ensure conformance to processes and practices. Working through the development and support phases of project delivery.</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>I have 2 year of experience , working as a java Developer. If u want good java developer then hire me without hesitation . (｡◕‿◕｡)</p>
+                    <p>
+                        {% assign start_year = site.start_year %}
+                        {% assign current_year = site.time | date: "%Y" %}
+                        {% assign experience_years = current_year | minus: start_year %}
+                        I have {{ experience_years }} years of experience, working as a Java Developer. If you want a good Java developer, then hire me without hesitation. (｡◕‿◕｡)
+                    </p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <a href="mailto: ravimurya04@gmail.com" class="btn btn-lg btn-outline">

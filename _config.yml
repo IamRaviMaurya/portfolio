@@ -48,7 +48,7 @@ social:
   - title: instagram
     url: https://www.instagram.com/ravi_.maurya/?fbclid=IwAR2V--UfgIQY2htLYNf2c0vF2MzOxx7sZLTY5CpTGBy2gRVSxy7jHsTS_JE
   - title: github
-    url: https://github.com/kopmjrm
+    url: https://github.com/IamRaviMaurya
 
 # Postal address (add as many lines as necessary)
 address:
@@ -69,3 +69,6 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+# about date
+start_year: 2021
