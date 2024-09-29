@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2024-06-01T19:28:53+05:30</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Ravi Maurya</title>
+  
+
+  
+    <subtitle>Designed and developed a Restful APIs for different modules in the project as per the requirement. Implemented the application using Spring Boot Framework and handled it.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Java</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Java" />
+      <published>2014-07-18T00:00:00+05:30</published>
+      <updated>2014-07-18T00:00:00+05:30</updated>
+      <id>http://localhost:4000/java</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Spring boot</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Spring boot" />
+      <published>2014-07-17T00:00:00+05:30</published>
+      <updated>2014-07-17T00:00:00+05:30</updated>
+      <id>http://localhost:4000/spring%20boot</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Hibernate</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Hibernate" />
+      <published>2014-07-16T00:00:00+05:30</published>
+      <updated>2014-07-16T00:00:00+05:30</updated>
+      <id>http://localhost:4000/hibernate</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Microservices</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Microservices" />
+      <published>2014-07-15T00:00:00+05:30</published>
+      <updated>2014-07-15T00:00:00+05:30</updated>
+      <id>http://localhost:4000/microservices</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">My Sql</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="My Sql" />
+      <published>2014-07-14T00:00:00+05:30</published>
+      <updated>2014-07-14T00:00:00+05:30</updated>
+      <id>http://localhost:4000/My-Sql</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Postgrelsql</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Postgrelsql" />
+      <published>2014-07-13T00:00:00+05:30</published>
+      <updated>2014-07-13T00:00:00+05:30</updated>
+      <id>http://localhost:4000/postgrelsql</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Docker</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Docker" />
+      <published>2014-07-12T00:00:00+05:30</published>
+      <updated>2014-07-12T00:00:00+05:30</updated>
+      <id>http://localhost:4000/Docker</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Java Script</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Java Script" />
+      <published>2014-07-11T00:00:00+05:30</published>
+      <updated>2014-07-11T00:00:00+05:30</updated>
+      <id>http://localhost:4000/Java-Script</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Spring boot security</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Spring boot security" />
+      <published>2014-07-10T00:00:00+05:30</published>
+      <updated>2014-07-10T00:00:00+05:30</updated>
+      <id>http://localhost:4000/Spring%20Boot%20Security</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
